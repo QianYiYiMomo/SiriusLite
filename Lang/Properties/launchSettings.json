@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lang": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+LIBRARY
+EXPORTS
+		Init
+		LoadPlugin
+		UnLoadPlugin
+		GetEventCallBack
+		CallEvent
+
+		Api_LogOut
+		Api_LogOutWar
+		Api_LogOutErr
+		Api_SendMsg
+		Api_SendMsg_Image
+		Api_GetMemberInfo_Json
+		Api_GetGuildInfo
+		Api_CreateGuildRole
+		Api_DeleteGuildRole
+		Api_CreateChannelAnnounce
+		Api_GetChannelInfo
+		Api_GetGuildRoleList
+		Api_AddGuildRole
+		Api_DeleteGuildRoleA
+		Api_DeleteChannelAnnounce
+		Api_GetGuildChannelList
+		Api_GetChannelPermissions
+		Api_SetChannelPermissions
+		Api_MuteGuild
+		Api_MuteGuildUser
+		Api_GetBotInfo
